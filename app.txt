@@ -9,6 +9,7 @@ public class Main {
         test.add("Hello");
 	test.add("java");
 	test.add("oracle");
+	test.add("coke");
 	test.add("HTML");
 	test.add("CSS");
 	test.add("javascript");
