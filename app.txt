@@ -7,7 +7,6 @@ public class Main {
         ArrayList<String> test = new ArrayList<>();
     
         test.add("Hello");
-        test.add("world");
 	test.add("java");
 	test.add("oracle");
 	test.add("coffee");
