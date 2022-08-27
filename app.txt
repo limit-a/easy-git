@@ -8,6 +8,7 @@ public class Main {
     
         test.add("Hello");
         test.add("world");
+	test.add("java");
 
         System.out.println(test);
 	
