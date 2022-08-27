@@ -9,6 +9,8 @@ public class Main {
         test.add("Hello");
         test.add("world");
 	test.add("java");
+	test.add("oracle");
+	test.add("coffee");
 
         System.out.println(test);
 	
